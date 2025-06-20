@@ -44,7 +44,7 @@ This repository contains solutions for a two-part web assignment:
 
 1. Open `partB/index.html` in your browser (or serve via Live Server).  
 2. Verify:
-   - A **scroll-away navbar** with “Food, LLC” on the left.  
+   - A **scroll-away navbar** with “UC Foodmandu” on the left.  
    - **Desktop/tablet**: brand only, no toggle button.  
    - **Mobile**: ☰ toggle appears, dropping down a full-width menu linking to each section.  
    - Centered “Our Menu” heading, 700px-tall sections, and “Back to Top” buttons.
