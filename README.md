@@ -9,20 +9,20 @@ This repository contains solutions for a two-part web assignment:
 ---
 ## 📁 Directory Structure
 
-p1_solution/
-├── partA/ # Part A: Pure‐CSS menu page
-│ ├ index.html
-│ └ styles.css
-│
-├── partB/ # Part B: Bootstrap-enhanced menu page
-│ ├ index.html
-│ └ styles.css
-│
-└── partC_js/ # Question 2: Hello/Goodbye speaker scripts
-├ index.html
-├ SpeakHello.js
-├ SpeakGoodBye.js
-└ script.js
+<pre> ```
+   p1_solution/ 
+      ├── partA/ 
+         ├── index.html
+         └── styles.css 
+      ├── partB/
+         ├── index.html
+         └── styles.css 
+      ├── partC_js/ 
+         ├── index.html 
+         ├── SpeakHello.js 
+         ├── SpeakGoodBye.js 
+         └── script.js 
+   ``` </pre>
 ---
 
 ## 🚀 Getting Started
