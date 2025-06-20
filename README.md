@@ -21,7 +21,12 @@ This repository contains solutions for a two-part web assignment:
          ├── index.html 
          ├── SpeakHello.js 
          ├── SpeakGoodBye.js 
-         └── script.js 
+         └── script.js
+      ├── screenshot_solution/
+         ├── Part A solution.png 
+         ├── Part B Responsive.mp4 
+         ├── Part B solution.png
+         └── Question 2 solution.png
    ``` </pre>
 ---
 
